@@ -1,4 +1,4 @@
-import canteen from '../assets/svg/projects/canteen.svg'
+import canteen from '../assets/canteen.gif'
 import healthify from '../assets/healthify.gif'
 import seer from '../assets/seer.gif'
 import drive from '../assets/drive.gif'
